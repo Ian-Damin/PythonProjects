@@ -1,3 +1,4 @@
+#Jogo de adivinhar palavra!
 palavraSecret = "perfume"
 tentativas = 0
 letrasAcertadas = []
